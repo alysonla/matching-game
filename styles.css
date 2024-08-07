@@ -10,7 +10,7 @@ h1 {
 
 .game-board {
     display: grid;
-    grid-template-columns: repeat(4, 100px);
+    grid-template-columns: repeat(5, 100px);
     grid-gap: 10px;
     justify-content: center;
     margin: 20px auto;
@@ -32,3 +32,4 @@ h1 {
     background-color: #98fb98;
     cursor: default;
 }
+
